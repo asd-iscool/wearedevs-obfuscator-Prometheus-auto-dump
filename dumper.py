@@ -24,7 +24,7 @@ print("--Type 1 to dump in executor--")
 print("--Type 2 to dump in rbx studio--")
 ah = input("choice : ")
 if ah=="1":
-    print("saves in workspace/a.log")
+    print("saves in workspace/dump.log")
     with open(output_, "w") as porn:
         porn.write(overtonight.sub(fu, target_stringzhaha))
 elif ah=="2":
