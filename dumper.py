@@ -34,3 +34,4 @@ else:
     print("invalid choice")
 
 print("check output.lua and run output.lua in your executor or rbx studio")
+input("press enter to exit")
