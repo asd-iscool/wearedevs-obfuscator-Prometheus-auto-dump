@@ -1,4 +1,4 @@
-# by ASD & leejunheok discord : xg3w & fuckthefame1
+# by ASD & @eternum1 discord : xg3w & eternum1
 import re
 
 print("Wearedevs Obf(Prometheus) dumper by ASD & @eternum1")
